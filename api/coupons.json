@@ -4,24 +4,28 @@
     {
       "id": 1,
       "name": "饿了么，天天扫码领红包，最高20",
+      "type": 0,
       "imageUrl": "https://api.vector123.com/images/4cf1b868805b48ca7641a1526bb5c07e.webp",
       "targetUrl": "https://h5.ele.me/ant/qrcode?open_type=miniapp&url_id=35&inviterId=8044d33&fromChannel=elmc&chInfo=ch_app_chsub_Photo"
     },
     {
       "id": 2,
       "name": "每日优鲜",
+      "type": 2,
       "imageUrl": "https://api.vector123.com/images/441b69511e05007a28d19697d8e55881.webp",
       "targetUrl": "https://as-vip.missfresh.cn/frontend/wq/?pg=s&fr=3&inviteNo=INVITE_CASH13335195"
     },
     {
       "id": 3,
       "name": "盒马",
+      "type": 3,
       "imageUrl": "https://api.vector123.com/images/03cfd4a5f08d80a4eb8b0fbe1275a65e.webp",
       "targetUrl": "https://c.tb.cn/K5.2gxtw"
     },
     {
       "id": 4,
       "name": "饿了么，可领31元",
+      "type": 0,
       "imageUrl": "https://api.vector123.com/images/edf9ed6d60c1971e78734f8785822ad4.webp",
       "targetUrl": "https://m.tb.cn/h.4TUmALP"
     }
