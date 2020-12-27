@@ -18,14 +18,14 @@
     {
       "id": 3,
       "name": "盒马",
-      "type": 3,
+      "type": 1,
       "imageUrl": "https://api.vector123.com/images/03cfd4a5f08d80a4eb8b0fbe1275a65e.webp",
       "targetUrl": "https://c.tb.cn/K5.2gxtw"
     },
     {
       "id": 4,
       "name": "饿了么，可领31元",
-      "type": 0,
+      "type": 3,
       "imageUrl": "https://api.vector123.com/images/edf9ed6d60c1971e78734f8785822ad4.webp",
       "targetUrl": "https://m.tb.cn/h.4TUmALP"
     }
