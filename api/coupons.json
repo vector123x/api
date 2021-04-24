@@ -7,27 +7,6 @@
       "type": 0,
       "imageUrl": "https://api.vector123.com/images/ecc6b5dafda294d58210b30a58178508.jpg",
       "targetUrl": "https://h5.ele.me/ant/qrcode?open_type=miniapp&url_id=35&inviterId=8044d33&fromChannel=elmc&chInfo=ch_app_chsub_Photo"
-    },
-    {
-      "id": 2,
-      "name": "每日优鲜",
-      "type": 2,
-      "imageUrl": "https://api.vector123.com/images/5e3749ce190ebf9fad60d9fd28bb804d.jpg",
-      "targetUrl": "https://as-vip.missfresh.cn/frontend/wq/?pg=s&fr=3&inviteNo=INVITE_CASH13335195"
-    },
-    {
-      "id": 3,
-      "name": "盒马",
-      "type": 1,
-      "imageUrl": "https://api.vector123.com/images/56b39c6cb34ea65b1fe16cf28e4309c8.jpg",
-      "targetUrl": "https://c.tb.cn/K5.2gxtw"
-    },
-    {
-      "id": 4,
-      "name": "饿了么，可领31元",
-      "type": 0,
-      "imageUrl": "https://api.vector123.com/images/d0cf94723379a574d630b7b0b8db2a7e.jpg",
-      "targetUrl": "https://m.tb.cn/h.4TUmALP"
     }
   ],
   "msg": null
