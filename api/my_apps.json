@@ -1,0 +1,13 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "id": 1,
+      "title": "Square Fit 🎊",
+      "content": "<br/>Square Fit enables you to <b>post entire photos on Instagram</b>.<br/><br/>Maintains excellent photo quality.<br/><br/>Makes your Instagram more special.<br/>",
+      "coverUrl": "https://api.vector123.com/images/d0d68611b7e89ef74b8e6d115a408a6a.webp",
+      "action": "https://play.google.com/store/apps/details?id=com.vector123.nocrop.squarefitphoto"
+    }
+  ],
+  "msg": null
+}
