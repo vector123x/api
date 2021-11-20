@@ -14,7 +14,7 @@
         "name": "White Border",
         "enabled": true,
         "packageName": "com.vector123.whiteborder",
-        "iconUrl": "https://app.vector123.com/images/white-border.webp",
+        "iconUrl": "https://api.vector123.com/images/white-border.webp",
         "url": "https://play.google.com/store/apps/details?id=com.vector123.whiteborder&utm_source=https://app.vector123.com/"
       },
       {
@@ -22,7 +22,7 @@
         "name": "Square Fit Photo",
         "enabled": true,
         "packageName": "com.vector123.nocrop.squareborder.squarefitphoto",
-        "iconUrl": "https://app.vector123.com/images/square-fit-photo.webp",
+        "iconUrl": "https://api.vector123.com/images/square-fit-photo.webp",
         "url": "https://play.google.com/store/apps/details?id=com.vector123.nocrop.squareborder.squarefitphoto&utm_source=https://app.vector123.com/"
       },
       {
@@ -30,7 +30,7 @@
         "name": "Contacts Tools",
         "enabled": true,
         "packageName": "com.vector123.vcard",
-        "iconUrl": "https://app.vector123.com/images/excel-to-vcard.webp",
+        "iconUrl": "https://api.vector123.com/images/excel-to-vcard.webp",
         "url": "https://play.google.com/store/apps/details?id=com.vector123.vcard&utm_source=https://app.vector123.com/"
       },
       {
@@ -38,7 +38,7 @@
         "name": "Square Fit Video",
         "enabled": true,
         "packageName": "com.vector123.videoeditor.nocrop.squarevideo",
-        "iconUrl": "https://app.vector123.com/images/square-fit-video.webp",
+        "iconUrl": "https://api.vector123.com/images/square-fit-video.webp",
         "url": "https://play.google.com/store/apps/details?id=com.vector123.videoeditor.nocrop.squarevideo&utm_source=https://app.vector123.com/"
       }
     ],
