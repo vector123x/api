@@ -1,7 +1,7 @@
 {
   "code": 0,
   "data": {
-    "enabled": true,
+    "enabled": false,
     "isPriorityShow": false,
     "updatedTime": 1637366417000,
     "paletteConfig": {
