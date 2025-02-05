@@ -1,1 +1,36 @@
-{"code":0,"data":{"enabled":true,"isPriorityShow":false,"updatedTime":1658667106002,"paletteConfig":{"enabled":true,"url":"https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https://app.vector123.com"},"appList":[{"id":13,"name":"Square Photo Widget","enabled":true,"packageName":"com.vector123.photowidget.squarephotowidget","iconUrl":"https://api.vector123.com/images/square-photo-widget.webp","url":"https://play.google.com/store/apps/details?id=com.vector123.photowidget.squarephotowidget&utm_source=https://app.vector123.com"},{"id":12,"name":"Fancy Font","enabled":true,"packageName":"com.vector123.emoji.fancyfont.fashiontext.kaomoji","iconUrl":"https://api.vector123.com/images/fancy-text.webp","url":"https://play.google.com/store/apps/details?id=com.vector123.emoji.fancyfont.fashiontext.kaomoji&utm_source=https://app.vector123.com"},{"id":6,"name":"Pure Wallpaper","enabled":true,"packageName":"com.vector123.wallpaper.generator","iconUrl":"https://api.vector123.com/images/pure-wallpaper.webp","url":"https://play.google.com/store/apps/details?id=com.vector123.wallpaper.generator&utm_source=https://app.vector123.com"},{"id":15,"name":"LED Showtime","enabled":true,"packageName":"com.vector123.ledshowtime","iconUrl":"https://api.vector123.com/images/led-showtime.webp","url":"https://play.google.com/store/apps/details?id=com.vector123.ledshowtime&utm_source=https://app.vector123.com"}],"couponList":[{"id":15,"title":"LED Showtime","content":"<br/><font color=\"#000000\">A versatile danmaku tool with mobile bullet screens, scrolling subtitles, LED displays, and more. 🎉💥🙌</font>","type":"LINK","action":"https://play.google.com/store/apps/details?id=com.vector123.ledshowtime&utm_source=https://app.vector123.com"}]},"msg":null}
+{
+    "code": 0,
+    "data":
+    {
+        "enabled": true,
+        "isPriorityShow": false,
+        "updatedTime": 1738717439000,
+        "paletteConfig":
+        {
+            "enabled": true,
+            "url": "https://play.google.com/store/apps/details?id=com.vector123.colorpalette&utm_source=https://app.vector123.com"
+        },
+        "appList":
+        [
+            {
+                "id": 20,
+                "name": "Pixmoji Widgets",
+                "enabled": true,
+                "packageName": "com.vector123.pixmoji",
+                "iconUrl": "https://api.vector123.com/images/pixmojiwidgets.webp",
+                "url": "https://play.google.com/store/apps/details?id=com.vector123.pixmoji&utm_source=https://app.vector123.com"
+            }
+        ],
+        "couponList":
+        [
+            {
+                "id": 20,
+                "title": "Pixmoji Widgets",
+                "content": "<br/><font color=\"#000000\">Boost your phone’s look and functionality with our all-in-one widget collection! From emojis and photos to quotes and reminders, our widgets help you express yourself, stay organized, and make life easier. 🎉</font>",
+                "type": "LINK",
+                "action": "https://play.google.com/store/apps/details?id=com.vector123.pixmoji&utm_source=https://app.vector123.com"
+            }
+        ]
+    },
+    "msg": null
+}
